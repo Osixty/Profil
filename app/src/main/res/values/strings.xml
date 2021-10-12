@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Profil</string>
+    <string name="anggota_3">anggota 3</string>
+    <string name="anggota_1">anggota 1</string>
+    <string name="anggota_2">anggota 2</string>
+    <string name="anggota_4">anggota 4</string>
+    <string name="cek">cek</string>
+    <string name="name">Name</string>
+    <string name="gunan">Gunan</string>
+    <string name="gambar">Ini gambar</string>
+    <string name="MasukanNama">masukan mana</string>
+    <string name="beranda">Beranda</string>
+    <string name="rafli">Rafli</string>
+    <string name="absar">Absar</string>
+    <string name="zidan">Zidan</string>
+</resources>

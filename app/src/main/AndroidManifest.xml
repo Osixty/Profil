@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.zidan.profil">
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/Theme.Profil">
+        <activity android:name=".MainActivity" android:label="@string/beranda">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name=".Profil1Activity"
+            android:label="@string/gunan">
+        </activity>
+        <activity android:name=".Profil2Activity"
+            android:label="@string/rafli">
+        </activity>
+        <activity android:name=".Profil3Activity"
+            android:label="@string/absar">
+        </activity>
+        <activity android:name=".Profil4Activity"
+            android:label="@string/zidan">
+        </activity>
+
+    </application>
+
+</manifest>
